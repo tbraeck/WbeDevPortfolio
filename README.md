@@ -1,2 +1,3 @@
 # WebDevPortfolio
-Web Developer portfolio for Tate Braeckel
+Tate Braeckel
+Web Developer Portfolio
